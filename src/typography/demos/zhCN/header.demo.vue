@@ -1,7 +1,7 @@
 <markdown>
 # 标题
 
-Header 不光是 Header。你知道 UI 一般很喜欢在 Header 旁边弄一个带颜色的竖条（确实，光有文字太单调了）。所以这它可以有个条。
+Header 不光是 Header。你知道 UI 一般很喜欢在 Header 旁边弄一个带颜色的竖条（确实，光有文字太单调了）。所以这里它可以有个条。
 </markdown>
 
 <template>
